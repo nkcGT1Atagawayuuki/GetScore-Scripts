@@ -1,0 +1,13 @@
+下記の順番でコードを見ていただけると幸いです。
+Iから始まるコードでは引き数ありのメソッドしか実装していないので、
+飛ばしていただいても大丈夫です
+
+State.cs
+↓
+StateBase.cs
+↓
+IStateAnyTrasitionable.cs
+↓
+IStateTransitionable.cs
+↓
+StateBaseController.cs
